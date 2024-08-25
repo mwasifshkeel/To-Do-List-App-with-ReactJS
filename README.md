@@ -24,14 +24,13 @@ The To-Do List App is a simple and interactive application built using React.js 
    - Open your terminal or command prompt.
    - Run the following command to clone the repository:
      ```bash
-     git clone https://github.com/yourusername/todo-list-app.git
+     git clone https://github.com/mwasifshkeel/To-Do-List-App-with-ReactJS.git
      ```
-   - Replace `yourusername` with your GitHub username and `todo-list-app` with the name of your repository.
-
+     
 2. **Navigate to the Project Directory:**
    - Change directory to your project folder:
      ```bash
-     cd todo-list-app
+     cd To-Do-List-App-with-ReactJS
      ```
 
 3. **Install Dependencies:**
@@ -47,7 +46,7 @@ The To-Do List App is a simple and interactive application built using React.js 
      ```
 
 5. **Open the Application:**
-   - Open your browser and go to `http://localhost:3000` to view the application.
+   - Open your browser and go to `http://localhost:[PORT IN TERMINAL]` to view the application.
 
 ### Running the Project
 
